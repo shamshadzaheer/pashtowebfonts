@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Bahij Insan';
+    src: url('fonts/BahijInsan-Bold.eot');
+    src: local('Bahij Insan Bold'), local('BahijInsan-Bold'),
+        url('fonts/BahijInsan-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijInsan-Bold.woff2') format('woff2'),
+        url('fonts/BahijInsan-Bold.woff') format('woff'),
+        url('fonts/BahijInsan-Bold.ttf') format('truetype'),
+        url('fonts/BahijInsan-Bold.svg#BahijInsan-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Insan';
+    src: url('fonts/BahijInsan-Thin.eot');
+    src: local('Bahij Insan Thin'), local('BahijInsan-Thin'),
+        url('fonts/BahijInsan-Thin.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijInsan-Thin.woff2') format('woff2'),
+        url('fonts/BahijInsan-Thin.woff') format('woff'),
+        url('fonts/BahijInsan-Thin.ttf') format('truetype'),
+        url('fonts/BahijInsan-Thin.svg#BahijInsan-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Insan';
+    src: url('fonts/BahijInsan-Regular.eot');
+    src: local('Bahij Insan'), local('BahijInsan-Regular'),
+        url('fonts/BahijInsan-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijInsan-Regular.woff2') format('woff2'),
+        url('fonts/BahijInsan-Regular.woff') format('woff'),
+        url('fonts/BahijInsan-Regular.ttf') format('truetype'),
+        url('fonts/BahijInsan-Regular.svg#BahijInsan-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
