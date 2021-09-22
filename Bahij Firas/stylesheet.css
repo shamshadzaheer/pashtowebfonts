@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Bahij Firas';
+    src: url('fonts/BahijFiras-Regular.eot');
+    src: local('Bahij Firas'), local('BahijFiras-Regular'),
+        url('fonts/BahijFiras-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijFiras-Regular.woff2') format('woff2'),
+        url('fonts/BahijFiras-Regular.woff') format('woff'),
+        url('fonts/BahijFiras-Regular.ttf') format('truetype'),
+        url('fonts/BahijFiras-Regular.svg#BahijFiras-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
