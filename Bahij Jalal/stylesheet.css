@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Jalal';
+    src: url('fonts/BahijJalal-Bold.eot');
+    src: local('Bahij Jalal Bold'), local('BahijJalal-Bold'),
+        url('fonts/BahijJalal-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijJalal-Bold.woff2') format('woff2'),
+        url('fonts/BahijJalal-Bold.woff') format('woff'),
+        url('fonts/BahijJalal-Bold.ttf') format('truetype'),
+        url('fonts/BahijJalal-Bold.svg#BahijJalal-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Jalal';
+    src: url('fonts/BahijJalal-Regular.eot');
+    src: local('Bahij Jalal'), local('BahijJalal-Regular'),
+        url('fonts/BahijJalal-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijJalal-Regular.woff2') format('woff2'),
+        url('fonts/BahijJalal-Regular.woff') format('woff'),
+        url('fonts/BahijJalal-Regular.ttf') format('truetype'),
+        url('fonts/BahijJalal-Regular.svg#BahijJalal-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
