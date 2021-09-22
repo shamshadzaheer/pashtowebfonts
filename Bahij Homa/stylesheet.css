@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Bahij Homa';
+    src: url('fonts/BahijHoma-Bold.eot');
+    src: local('Bahij Homa Bold'), local('BahijHoma-Bold'),
+        url('fonts/BahijHoma-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijHoma-Bold.woff2') format('woff2'),
+        url('fonts/BahijHoma-Bold.woff') format('woff'),
+        url('fonts/BahijHoma-Bold.ttf') format('truetype'),
+        url('fonts/BahijHoma-Bold.svg#BahijHoma-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
