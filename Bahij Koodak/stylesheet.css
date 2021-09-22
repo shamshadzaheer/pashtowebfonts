@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Koodak';
+    src: url('fonts/BahijKoodak-Regular.eot');
+    src: local('Bahij Koodak'), local('BahijKoodak-Regular'),
+        url('fonts/BahijKoodak-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijKoodak-Regular.woff2') format('woff2'),
+        url('fonts/BahijKoodak-Regular.woff') format('woff'),
+        url('fonts/BahijKoodak-Regular.ttf') format('truetype'),
+        url('fonts/BahijKoodak-Regular.svg#BahijKoodak-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Koodak';
+    src: url('fonts/BahijKoodak-Bold.eot');
+    src: local('Bahij Koodak Bold'), local('BahijKoodak-Bold'),
+        url('fonts/BahijKoodak-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijKoodak-Bold.woff2') format('woff2'),
+        url('fonts/BahijKoodak-Bold.woff') format('woff'),
+        url('fonts/BahijKoodak-Bold.ttf') format('truetype'),
+        url('fonts/BahijKoodak-Bold.svg#BahijKoodak-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
