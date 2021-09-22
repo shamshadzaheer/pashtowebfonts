@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Koufiya';
+    src: url('fonts/BahijKoufiya-Regular.eot');
+    src: local('Bahij Koufiya'), local('BahijKoufiya-Regular'),
+        url('fonts/BahijKoufiya-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijKoufiya-Regular.woff2') format('woff2'),
+        url('fonts/BahijKoufiya-Regular.woff') format('woff'),
+        url('fonts/BahijKoufiya-Regular.ttf') format('truetype'),
+        url('fonts/BahijKoufiya-Regular.svg#BahijKoufiya-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Koufiya';
+    src: url('fonts/BahijKoufiya-Bold.eot');
+    src: local('Bahij Koufiya Bold'), local('BahijKoufiya-Bold'),
+        url('fonts/BahijKoufiya-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijKoufiya-Bold.woff2') format('woff2'),
+        url('fonts/BahijKoufiya-Bold.woff') format('woff'),
+        url('fonts/BahijKoufiya-Bold.ttf') format('truetype'),
+        url('fonts/BahijKoufiya-Bold.svg#BahijKoufiya-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
