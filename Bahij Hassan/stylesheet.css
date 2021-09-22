@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Hassan';
+    src: url('fonts/BahijHassan-Bold.eot');
+    src: local('Bahij Hassan Bold'), local('BahijHassan-Bold'),
+        url('fonts/BahijHassan-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijHassan-Bold.woff2') format('woff2'),
+        url('fonts/BahijHassan-Bold.woff') format('woff'),
+        url('fonts/BahijHassan-Bold.ttf') format('truetype'),
+        url('fonts/BahijHassan-Bold.svg#BahijHassan-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Hassan';
+    src: url('fonts/BahijHassan-Regular.eot');
+    src: local('Bahij Hassan'), local('BahijHassan-Regular'),
+        url('fonts/BahijHassan-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijHassan-Regular.woff2') format('woff2'),
+        url('fonts/BahijHassan-Regular.woff') format('woff'),
+        url('fonts/BahijHassan-Regular.ttf') format('truetype'),
+        url('fonts/BahijHassan-Regular.svg#BahijHassan-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
