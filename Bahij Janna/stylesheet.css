@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Janna';
+    src: url('fonts/BahijJanna-Bold.eot');
+    src: local('Bahij Janna Bold'), local('BahijJanna-Bold'),
+        url('fonts/BahijJanna-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijJanna-Bold.woff2') format('woff2'),
+        url('fonts/BahijJanna-Bold.woff') format('woff'),
+        url('fonts/BahijJanna-Bold.ttf') format('truetype'),
+        url('fonts/BahijJanna-Bold.svg#BahijJanna-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Janna';
+    src: url('fonts/BahijJanna-Regular.eot');
+    src: local('Bahij Janna'), local('BahijJanna-Regular'),
+        url('fonts/BahijJanna-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijJanna-Regular.woff2') format('woff2'),
+        url('fonts/BahijJanna-Regular.woff') format('woff'),
+        url('fonts/BahijJanna-Regular.ttf') format('truetype'),
+        url('fonts/BahijJanna-Regular.svg#BahijJanna-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
