@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bahij Aban';
+    src: url('fonts/BahijAban-Bold.eot');
+    src: url('fonts/BahijAban-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijAban-Bold.woff2') format('woff2'),
+        url('fonts/BahijAban-Bold.woff') format('woff'),
+        url('fonts/BahijAban-Bold.ttf') format('truetype'),
+        url('fonts/BahijAban-Bold.svg#BahijAban-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
