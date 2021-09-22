@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Bahij Greta Arabic';
+    src: url('fonts/BahijGretaArabic-Regular.eot');
+    src: local('Bahij Greta Arabic'), local('BahijGretaArabic-Regular'),
+        url('fonts/BahijGretaArabic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijGretaArabic-Regular.woff2') format('woff2'),
+        url('fonts/BahijGretaArabic-Regular.woff') format('woff'),
+        url('fonts/BahijGretaArabic-Regular.ttf') format('truetype'),
+        url('fonts/BahijGretaArabic-Regular.svg#BahijGretaArabic-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Greta Arabic';
+    src: url('fonts/BahijGretaArabic-Bold.eot');
+    src: local('Bahij Greta Arabic Bold'), local('BahijGretaArabic-Bold'),
+        url('fonts/BahijGretaArabic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijGretaArabic-Bold.woff2') format('woff2'),
+        url('fonts/BahijGretaArabic-Bold.woff') format('woff'),
+        url('fonts/BahijGretaArabic-Bold.ttf') format('truetype'),
+        url('fonts/BahijGretaArabic-Bold.svg#BahijGretaArabic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Greta Arabic';
+    src: url('fonts/BahijGretaArabic-Medium.eot');
+    src: local('Bahij Greta Arabic Medium'), local('BahijGretaArabic-Medium'),
+        url('fonts/BahijGretaArabic-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijGretaArabic-Medium.woff2') format('woff2'),
+        url('fonts/BahijGretaArabic-Medium.woff') format('woff'),
+        url('fonts/BahijGretaArabic-Medium.ttf') format('truetype'),
+        url('fonts/BahijGretaArabic-Medium.svg#BahijGretaArabic-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
