@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Bahij Baraem';
+    src: url('fonts/BahijBaraem-Regular.eot');
+    src: local('Bahij Baraem'), local('BahijBaraem-Regular'),
+        url('fonts/BahijBaraem-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijBaraem-Regular.woff2') format('woff2'),
+        url('fonts/BahijBaraem-Regular.woff') format('woff'),
+        url('fonts/BahijBaraem-Regular.ttf') format('truetype'),
+        url('fonts/BahijBaraem-Regular.svg#BahijBaraem-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
