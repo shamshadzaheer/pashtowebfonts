@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Bahij Karim';
+    src: url('fonts/BahijKarim-Regular.eot');
+    src: local('Bahij Karim'), local('BahijKarim-Regular'),
+        url('fonts/BahijKarim-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijKarim-Regular.woff2') format('woff2'),
+        url('fonts/BahijKarim-Regular.woff') format('woff'),
+        url('fonts/BahijKarim-Regular.ttf') format('truetype'),
+        url('fonts/BahijKarim-Regular.svg#BahijKarim-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
