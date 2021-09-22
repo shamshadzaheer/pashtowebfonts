@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Droid Naskh';
+    src: url('fonts/BahijDroidNaskh-Regular.eot');
+    src: local('Bahij Droid Naskh'), local('BahijDroidNaskh-Regular'),
+        url('fonts/BahijDroidNaskh-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijDroidNaskh-Regular.woff2') format('woff2'),
+        url('fonts/BahijDroidNaskh-Regular.woff') format('woff'),
+        url('fonts/BahijDroidNaskh-Regular.ttf') format('truetype'),
+        url('fonts/BahijDroidNaskh-Regular.svg#BahijDroidNaskh-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Droid Naskh';
+    src: url('fonts/BahijDroidNaskh-Bold.eot');
+    src: local('Bahij Droid Naskh Bold'), local('BahijDroidNaskh-Bold'),
+        url('fonts/BahijDroidNaskh-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijDroidNaskh-Bold.woff2') format('woff2'),
+        url('fonts/BahijDroidNaskh-Bold.woff') format('woff'),
+        url('fonts/BahijDroidNaskh-Bold.ttf') format('truetype'),
+        url('fonts/BahijDroidNaskh-Bold.svg#BahijDroidNaskh-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
