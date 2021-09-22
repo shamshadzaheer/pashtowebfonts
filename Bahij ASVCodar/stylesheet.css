@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Bahij Aban';
+    src: url('fonts/BahijAban-Bold.eot');
+    src: local('Bahij Aban Bold'), local('BahijAban-Bold'),
+        url('fonts/BahijAban-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijAban-Bold.woff2') format('woff2'),
+        url('fonts/BahijAban-Bold.woff') format('woff'),
+        url('fonts/BahijAban-Bold.ttf') format('truetype'),
+        url('fonts/BahijAban-Bold.svg#BahijAban-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij ASVCodar';
+    src: url('fonts/BahijASVCodar-Regular.eot');
+    src: local('Bahij ASVCodar'), local('BahijASVCodar-Regular'),
+        url('fonts/BahijASVCodar-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijASVCodar-Regular.woff2') format('woff2'),
+        url('fonts/BahijASVCodar-Regular.woff') format('woff'),
+        url('fonts/BahijASVCodar-Regular.ttf') format('truetype'),
+        url('fonts/BahijASVCodar-Regular.svg#BahijASVCodar-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij ASVCodar';
+    src: url('fonts/BahijASVCodar-Bold.eot');
+    src: local('Bahij ASVCodar Bold'), local('BahijASVCodar-Bold'),
+        url('fonts/BahijASVCodar-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijASVCodar-Bold.woff2') format('woff2'),
+        url('fonts/BahijASVCodar-Bold.woff') format('woff'),
+        url('fonts/BahijASVCodar-Bold.ttf') format('truetype'),
+        url('fonts/BahijASVCodar-Bold.svg#BahijASVCodar-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
