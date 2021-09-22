@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Badiya';
+    src: url('fonts/BahijBadiya-Bold.eot');
+    src: local('Bahij Badiya Bold'), local('BahijBadiya-Bold'),
+        url('fonts/BahijBadiya-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijBadiya-Bold.woff2') format('woff2'),
+        url('fonts/BahijBadiya-Bold.woff') format('woff'),
+        url('fonts/BahijBadiya-Bold.ttf') format('truetype'),
+        url('fonts/BahijBadiya-Bold.svg#BahijBadiya-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Badiya';
+    src: url('fonts/BahijBadiya-Regular.eot');
+    src: local('Bahij Badiya'), local('BahijBadiya-Regular'),
+        url('fonts/BahijBadiya-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijBadiya-Regular.woff2') format('woff2'),
+        url('fonts/BahijBadiya-Regular.woff') format('woff'),
+        url('fonts/BahijBadiya-Regular.ttf') format('truetype'),
+        url('fonts/BahijBadiya-Regular.svg#BahijBadiya-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
