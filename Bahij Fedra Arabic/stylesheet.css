@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Fedra Arabic';
+    src: url('fonts/BahijFedraArabic-Bold.eot');
+    src: local('Bahij Fedra Arabic Bold'), local('BahijFedraArabic-Bold'),
+        url('fonts/BahijFedraArabic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijFedraArabic-Bold.woff2') format('woff2'),
+        url('fonts/BahijFedraArabic-Bold.woff') format('woff'),
+        url('fonts/BahijFedraArabic-Bold.ttf') format('truetype'),
+        url('fonts/BahijFedraArabic-Bold.svg#BahijFedraArabic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Fedra Arabic';
+    src: url('fonts/BahijFedraArabic-Regular.eot');
+    src: local('Bahij Fedra Arabic'), local('BahijFedraArabic-Regular'),
+        url('fonts/BahijFedraArabic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijFedraArabic-Regular.woff2') format('woff2'),
+        url('fonts/BahijFedraArabic-Regular.woff') format('woff'),
+        url('fonts/BahijFedraArabic-Regular.ttf') format('truetype'),
+        url('fonts/BahijFedraArabic-Regular.svg#BahijFedraArabic-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
