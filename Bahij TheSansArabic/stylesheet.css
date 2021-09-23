@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'Bahij TheSansArabic';
+    src: url('fonts/BahijTheSansArabic-Bold.eot');
+    src: local('Bahij TheSansArabic-Bold'), local('BahijTheSansArabic-Bold'),
+        url('fonts/BahijTheSansArabic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTheSansArabic-Bold.woff2') format('woff2'),
+        url('fonts/BahijTheSansArabic-Bold.woff') format('woff'),
+        url('fonts/BahijTheSansArabic-Bold.ttf') format('truetype'),
+        url('fonts/BahijTheSansArabic-Bold.svg#BahijTheSansArabic-Bold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij TheSansArabic';
+    src: url('fonts/BahijTheSansArabic-ExtraBold.eot');
+    src: local('Bahij TheSansArabic-ExtraBold'), local('BahijTheSansArabic-ExtraBold'),
+        url('fonts/BahijTheSansArabic-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTheSansArabic-ExtraBold.woff2') format('woff2'),
+        url('fonts/BahijTheSansArabic-ExtraBold.woff') format('woff'),
+        url('fonts/BahijTheSansArabic-ExtraBold.ttf') format('truetype'),
+        url('fonts/BahijTheSansArabic-ExtraBold.svg#BahijTheSansArabic-ExtraBold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij TheSansArabic';
+    src: url('fonts/BahijTheSansArabic-Black.eot');
+    src: local('Bahij TheSansArabic-Black'), local('BahijTheSansArabic-Black'),
+        url('fonts/BahijTheSansArabic-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTheSansArabic-Black.woff2') format('woff2'),
+        url('fonts/BahijTheSansArabic-Black.woff') format('woff'),
+        url('fonts/BahijTheSansArabic-Black.ttf') format('truetype'),
+        url('fonts/BahijTheSansArabic-Black.svg#BahijTheSansArabic-Black') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij TheSansArabic';
+    src: url('fonts/BahijTheSansArabic-Light.eot');
+    src: local('Bahij TheSansArabic-Light'), local('BahijTheSansArabic-Light'),
+        url('fonts/BahijTheSansArabic-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTheSansArabic-Light.woff2') format('woff2'),
+        url('fonts/BahijTheSansArabic-Light.woff') format('woff'),
+        url('fonts/BahijTheSansArabic-Light.ttf') format('truetype'),
+        url('fonts/BahijTheSansArabic-Light.svg#BahijTheSansArabic-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij TheSansArabic';
+    src: url('fonts/BahijTheSansArabic-ExtraLight.eot');
+    src: local('Bahij TheSansArabic-ExtraLight'), local('BahijTheSansArabic-ExtraLight'),
+        url('fonts/BahijTheSansArabic-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTheSansArabic-ExtraLight.woff2') format('woff2'),
+        url('fonts/BahijTheSansArabic-ExtraLight.woff') format('woff'),
+        url('fonts/BahijTheSansArabic-ExtraLight.ttf') format('truetype'),
+        url('fonts/BahijTheSansArabic-ExtraLight.svg#BahijTheSansArabic-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij TheSansArabic Plain';
+    src: url('fonts/BahijTheSansArabic-Plain.eot');
+    src: local('Bahij TheSansArabic-Plain'), local('BahijTheSansArabic-Plain'),
+        url('fonts/BahijTheSansArabic-Plain.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTheSansArabic-Plain.woff2') format('woff2'),
+        url('fonts/BahijTheSansArabic-Plain.woff') format('woff'),
+        url('fonts/BahijTheSansArabic-Plain.ttf') format('truetype'),
+        url('fonts/BahijTheSansArabic-Plain.svg#BahijTheSansArabic-Plain') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij TheSansArabic';
+    src: url('fonts/BahijTheSansArabic-SemiBold.eot');
+    src: local('Bahij TheSansArabic-SemiBold'), local('BahijTheSansArabic-SemiBold'),
+        url('fonts/BahijTheSansArabic-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTheSansArabic-SemiBold.woff2') format('woff2'),
+        url('fonts/BahijTheSansArabic-SemiBold.woff') format('woff'),
+        url('fonts/BahijTheSansArabic-SemiBold.ttf') format('truetype'),
+        url('fonts/BahijTheSansArabic-SemiBold.svg#BahijTheSansArabic-SemiBold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij TheSansArabic SemiLight';
+    src: url('fonts/BahijTheSansArabic-SemiLight.eot');
+    src: local('Bahij TheSansArabic-SemiLight'), local('BahijTheSansArabic-SemiLight'),
+        url('fonts/BahijTheSansArabic-SemiLight.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTheSansArabic-SemiLight.woff2') format('woff2'),
+        url('fonts/BahijTheSansArabic-SemiLight.woff') format('woff'),
+        url('fonts/BahijTheSansArabic-SemiLight.ttf') format('truetype'),
+        url('fonts/BahijTheSansArabic-SemiLight.svg#BahijTheSansArabic-SemiLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
