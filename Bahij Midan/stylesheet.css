@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Midan';
+    src: url('fonts/BahijMidan-Black.eot');
+    src: local('Bahij Midan Black'), local('BahijMidan-Black'),
+        url('fonts/BahijMidan-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMidan-Black.woff2') format('woff2'),
+        url('fonts/BahijMidan-Black.woff') format('woff'),
+        url('fonts/BahijMidan-Black.ttf') format('truetype'),
+        url('fonts/BahijMidan-Black.svg#BahijMidan-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Midan';
+    src: url('fonts/BahijMidan-Regular.eot');
+    src: local('Bahij Midan'), local('BahijMidan-Regular'),
+        url('fonts/BahijMidan-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMidan-Regular.woff2') format('woff2'),
+        url('fonts/BahijMidan-Regular.woff') format('woff'),
+        url('fonts/BahijMidan-Regular.ttf') format('truetype'),
+        url('fonts/BahijMidan-Regular.svg#BahijMidan-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
