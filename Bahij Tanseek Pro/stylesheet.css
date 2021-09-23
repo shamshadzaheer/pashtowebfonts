@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Tanseek Pro';
+    src: url('fonts/BahijTanseekPro-Regular.eot');
+    src: local('Bahij Tanseek Pro'), local('BahijTanseekPro-Regular'),
+        url('fonts/BahijTanseekPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTanseekPro-Regular.woff2') format('woff2'),
+        url('fonts/BahijTanseekPro-Regular.woff') format('woff'),
+        url('fonts/BahijTanseekPro-Regular.ttf') format('truetype'),
+        url('fonts/BahijTanseekPro-Regular.svg#BahijTanseekPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Tanseek Pro';
+    src: url('fonts/BahijTanseekPro-Bold.eot');
+    src: local('Bahij Tanseek Pro Bold'), local('BahijTanseekPro-Bold'),
+        url('fonts/BahijTanseekPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTanseekPro-Bold.woff2') format('woff2'),
+        url('fonts/BahijTanseekPro-Bold.woff') format('woff'),
+        url('fonts/BahijTanseekPro-Bold.ttf') format('truetype'),
+        url('fonts/BahijTanseekPro-Bold.svg#BahijTanseekPro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
