@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Traffic';
+    src: url('fonts/BahijTraffic-Bold.eot');
+    src: local('Bahij Traffic Bold'), local('BahijTraffic-Bold'),
+        url('fonts/BahijTraffic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTraffic-Bold.woff2') format('woff2'),
+        url('fonts/BahijTraffic-Bold.woff') format('woff'),
+        url('fonts/BahijTraffic-Bold.ttf') format('truetype'),
+        url('fonts/BahijTraffic-Bold.svg#BahijTraffic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Traffic';
+    src: url('fonts/BahijTraffic-Regular.eot');
+    src: local('Bahij Traffic'), local('BahijTraffic-Regular'),
+        url('fonts/BahijTraffic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTraffic-Regular.woff2') format('woff2'),
+        url('fonts/BahijTraffic-Regular.woff') format('woff'),
+        url('fonts/BahijTraffic-Regular.ttf') format('truetype'),
+        url('fonts/BahijTraffic-Regular.svg#BahijTraffic-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
