@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Yekan';
+    src: url('fonts/BahijYekan-Regular.eot');
+    src: local('Bahij Yekan'), local('BahijYekan-Regular'),
+        url('fonts/BahijYekan-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijYekan-Regular.woff2') format('woff2'),
+        url('fonts/BahijYekan-Regular.woff') format('woff'),
+        url('fonts/BahijYekan-Regular.ttf') format('truetype'),
+        url('fonts/BahijYekan-Regular.svg#BahijYekan-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Yekan';
+    src: url('fonts/BahijYekan-Bold.eot');
+    src: local('Bahij Yekan Bold'), local('BahijYekan-Bold'),
+        url('fonts/BahijYekan-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijYekan-Bold.woff2') format('woff2'),
+        url('fonts/BahijYekan-Bold.woff') format('woff'),
+        url('fonts/BahijYekan-Bold.ttf') format('truetype'),
+        url('fonts/BahijYekan-Bold.svg#BahijYekan-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
