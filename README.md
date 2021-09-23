@@ -74,39 +74,77 @@ Pashto web fonts
 
 
 ## Bahij Maged
+![image](https://user-images.githubusercontent.com/7948187/134592456-e325c3ac-06ef-412f-ac7e-ca6a2ecaba49.png)
+
 
 ## Bahij Midan
+![image](https://user-images.githubusercontent.com/7948187/134592475-fb73d686-3b59-40ac-b9e1-1267a6cd183e.png)
+
 
 ## Bahij Mitra
+![image](https://user-images.githubusercontent.com/7948187/134592496-939cbde9-0a1a-4466-ab22-585230733d60.png)
+
 
 ## Bahij Muna
+![image](https://user-images.githubusercontent.com/7948187/134592514-c948552c-97f5-4ace-8dd7-18b69ad72809.png)
+
 
 ## Bahij Myriad Arabic
+![image](https://user-images.githubusercontent.com/7948187/134592542-11e0bf8f-2910-46d6-ab67-baae5f42eeba.png)
+
 
 ## Bahij Nassim
+![image](https://user-images.githubusercontent.com/7948187/134592578-dc35d526-4ee9-4c2c-a20b-774b16d68d96.png)
+
 
 ## Bahij Nazanin
+![image](https://user-images.githubusercontent.com/7948187/134592605-8efa138b-f20d-4c6c-995e-5c9afaba8428.png)
+
 
 ## Bahij Palatino Arabic
+![image](https://user-images.githubusercontent.com/7948187/134592633-8cfbb0e8-5ec1-423c-be65-07ce59adc4b0.png)
+
 
 ## Bahij Palatino Sans Arabic
+![image](https://user-images.githubusercontent.com/7948187/134592663-eedfaf2a-a283-4581-ab7e-d128e9f3f0ee.png)
+
 
 ## Bahij Roya
+![image](https://user-images.githubusercontent.com/7948187/134592680-f8771db7-63af-47f7-9059-5a604c228570.png)
+
 
 ## Bahij Sultan Nahia
+![image](https://user-images.githubusercontent.com/7948187/134592698-33ca9f94-2457-4282-a572-c1e553e19fc3.png)
+
 
 ## Bahij Tanseek Pro
+![image](https://user-images.githubusercontent.com/7948187/134592716-68ea632f-2288-4a87-a97f-1e852d329376.png)
+
 
 ## Bahij TheSansArabic
+![image](https://user-images.githubusercontent.com/7948187/134592737-ec21aab9-b5f3-4eec-b465-4418784673b2.png)
+
 
 ## Bahij Titr
+![image](https://user-images.githubusercontent.com/7948187/134592774-2d30ed14-a00f-4807-a4f5-44057f60c060.png)
+
 
 ## Bahij Traffic
+![image](https://user-images.githubusercontent.com/7948187/134592798-ed8e4383-c83e-4df2-8c99-3f733c645415.png)
+
 
 ## Bahij Uthman Taha
+![image](https://user-images.githubusercontent.com/7948187/134592822-e3e7e574-18cd-4822-9c34-36559372ea42.png)
+
 
 ## Bahij Yakaout
+![image](https://user-images.githubusercontent.com/7948187/134592852-743ab7d4-63e6-4913-9be8-ab9c0cf501f0.png)
+
 
 ## Bahij Yekan
+![image](https://user-images.githubusercontent.com/7948187/134592872-44caf302-dce1-40dd-8368-fdc3a0d5bf9c.png)
+
 
 ## Bahij Zar
+![image](https://user-images.githubusercontent.com/7948187/134592893-39c1580a-75d8-4529-ae41-99a138cc8dc1.png)
+
