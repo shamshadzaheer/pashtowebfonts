@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Nassim';
+    src: url('fonts/BahijNassim-Bold.eot');
+    src: local('Bahij Nassim Bold'), local('BahijNassim-Bold'),
+        url('fonts/BahijNassim-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijNassim-Bold.woff2') format('woff2'),
+        url('fonts/BahijNassim-Bold.woff') format('woff'),
+        url('fonts/BahijNassim-Bold.ttf') format('truetype'),
+        url('fonts/BahijNassim-Bold.svg#BahijNassim-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Nassim';
+    src: url('fonts/BahijNassim-Regular.eot');
+    src: local('Bahij Nassim'), local('BahijNassim-Regular'),
+        url('fonts/BahijNassim-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijNassim-Regular.woff2') format('woff2'),
+        url('fonts/BahijNassim-Regular.woff') format('woff'),
+        url('fonts/BahijNassim-Regular.ttf') format('truetype'),
+        url('fonts/BahijNassim-Regular.svg#BahijNassim-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
