@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Palatino Sans Arabic';
+    src: url('fonts/BahijPalatinoSansArabic-Regular.eot');
+    src: local('Bahij Palatino Sans Arabic'), local('BahijPalatinoSansArabic-Regular'),
+        url('fonts/BahijPalatinoSansArabic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijPalatinoSansArabic-Regular.woff2') format('woff2'),
+        url('fonts/BahijPalatinoSansArabic-Regular.woff') format('woff'),
+        url('fonts/BahijPalatinoSansArabic-Regular.ttf') format('truetype'),
+        url('fonts/BahijPalatinoSansArabic-Regular.svg#BahijPalatinoSansArabic-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Palatino Sans Arabic';
+    src: url('fonts/BahijPalatinoSansArabic-Bold.eot');
+    src: local('Bahij Palatino Sans Arabic Bold'), local('BahijPalatinoSansArabic-Bold'),
+        url('fonts/BahijPalatinoSansArabic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijPalatinoSansArabic-Bold.woff2') format('woff2'),
+        url('fonts/BahijPalatinoSansArabic-Bold.woff') format('woff'),
+        url('fonts/BahijPalatinoSansArabic-Bold.ttf') format('truetype'),
+        url('fonts/BahijPalatinoSansArabic-Bold.svg#BahijPalatinoSansArabic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
