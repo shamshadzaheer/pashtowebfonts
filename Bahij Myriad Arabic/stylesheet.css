@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Myriad Arabic';
+    src: url('fonts/BahijMyriadArabic-Bold.eot');
+    src: local('Bahij Myriad Arabic Bold'), local('BahijMyriadArabic-Bold'),
+        url('fonts/BahijMyriadArabic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMyriadArabic-Bold.woff2') format('woff2'),
+        url('fonts/BahijMyriadArabic-Bold.woff') format('woff'),
+        url('fonts/BahijMyriadArabic-Bold.ttf') format('truetype'),
+        url('fonts/BahijMyriadArabic-Bold.svg#BahijMyriadArabic-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Myriad Arabic';
+    src: url('fonts/BahijMyriadArabic-Regular.eot');
+    src: local('Bahij Myriad Arabic'), local('BahijMyriadArabic-Regular'),
+        url('fonts/BahijMyriadArabic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMyriadArabic-Regular.woff2') format('woff2'),
+        url('fonts/BahijMyriadArabic-Regular.woff') format('woff'),
+        url('fonts/BahijMyriadArabic-Regular.ttf') format('truetype'),
+        url('fonts/BahijMyriadArabic-Regular.svg#BahijMyriadArabic-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
