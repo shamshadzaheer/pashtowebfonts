@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Bahij Palatino Arabic';
+    src: url('fonts/BahijPalatinoArabic-Regular.eot');
+    src: local('Bahij Palatino Arabic'), local('BahijPalatinoArabic-Regular'),
+        url('fonts/BahijPalatinoArabic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijPalatinoArabic-Regular.woff2') format('woff2'),
+        url('fonts/BahijPalatinoArabic-Regular.woff') format('woff'),
+        url('fonts/BahijPalatinoArabic-Regular.ttf') format('truetype'),
+        url('fonts/BahijPalatinoArabic-Regular.svg#BahijPalatinoArabic-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
