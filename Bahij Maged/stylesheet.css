@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Maged';
+    src: url('fonts/BahijMaged-Bold.eot');
+    src: local('Bahij Maged Bold'), local('BahijMaged-Bold'),
+        url('fonts/BahijMaged-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMaged-Bold.woff2') format('woff2'),
+        url('fonts/BahijMaged-Bold.woff') format('woff'),
+        url('fonts/BahijMaged-Bold.ttf') format('truetype'),
+        url('fonts/BahijMaged-Bold.svg#BahijMaged-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Maged';
+    src: url('fonts/BahijMaged-Regular.eot');
+    src: local('Bahij Maged'), local('BahijMaged-Regular'),
+        url('fonts/BahijMaged-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMaged-Regular.woff2') format('woff2'),
+        url('fonts/BahijMaged-Regular.woff') format('woff'),
+        url('fonts/BahijMaged-Regular.ttf') format('truetype'),
+        url('fonts/BahijMaged-Regular.svg#BahijMaged-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
