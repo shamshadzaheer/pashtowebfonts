@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Bahij Titr';
+    src: url('fonts/BahijTitr-Bold.eot');
+    src: local('Bahij Titr Bold'), local('BahijTitr-Bold'),
+        url('fonts/BahijTitr-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijTitr-Bold.woff2') format('woff2'),
+        url('fonts/BahijTitr-Bold.woff') format('woff'),
+        url('fonts/BahijTitr-Bold.ttf') format('truetype'),
+        url('fonts/BahijTitr-Bold.svg#BahijTitr-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
