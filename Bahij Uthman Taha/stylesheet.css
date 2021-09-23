@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Uthman Taha';
+    src: url('fonts/BahijUthmanTaha-Bold.eot');
+    src: local('Bahij Uthman Taha Bold'), local('BahijUthmanTaha-Bold'),
+        url('fonts/BahijUthmanTaha-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijUthmanTaha-Bold.woff2') format('woff2'),
+        url('fonts/BahijUthmanTaha-Bold.woff') format('woff'),
+        url('fonts/BahijUthmanTaha-Bold.ttf') format('truetype'),
+        url('fonts/BahijUthmanTaha-Bold.svg#BahijUthmanTaha-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Uthman Taha';
+    src: url('fonts/BahijUthmanTaha-Regular.eot');
+    src: local('Bahij Uthman Taha'), local('BahijUthmanTaha-Regular'),
+        url('fonts/BahijUthmanTaha-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijUthmanTaha-Regular.woff2') format('woff2'),
+        url('fonts/BahijUthmanTaha-Regular.woff') format('woff'),
+        url('fonts/BahijUthmanTaha-Regular.ttf') format('truetype'),
+        url('fonts/BahijUthmanTaha-Regular.svg#BahijUthmanTaha-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
