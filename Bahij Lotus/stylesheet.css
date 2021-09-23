@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Lotus';
+    src: url('fonts/BahijLotus-Bold.eot');
+    src: local('Bahij Lotus Bold'), local('BahijLotus-Bold'),
+        url('fonts/BahijLotus-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijLotus-Bold.woff2') format('woff2'),
+        url('fonts/BahijLotus-Bold.woff') format('woff'),
+        url('fonts/BahijLotus-Bold.ttf') format('truetype'),
+        url('fonts/BahijLotus-Bold.svg#BahijLotus-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Lotus';
+    src: url('fonts/BahijLotus-Regular.eot');
+    src: local('Bahij Lotus'), local('BahijLotus-Regular'),
+        url('fonts/BahijLotus-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijLotus-Regular.woff2') format('woff2'),
+        url('fonts/BahijLotus-Regular.woff') format('woff'),
+        url('fonts/BahijLotus-Regular.ttf') format('truetype'),
+        url('fonts/BahijLotus-Regular.svg#BahijLotus-Regular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
