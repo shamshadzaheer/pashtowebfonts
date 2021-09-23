@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Bahij Muna';
+    src: url('fonts/BahijMuna-Regular.eot');
+    src: local('Bahij Muna Regular'), local('BahijMuna-Regular'),
+        url('fonts/BahijMuna-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMuna-Regular.woff2') format('woff2'),
+        url('fonts/BahijMuna-Regular.woff') format('woff'),
+        url('fonts/BahijMuna-Regular.ttf') format('truetype'),
+        url('fonts/BahijMuna-Regular.svg#BahijMuna-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Muna';
+    src: url('fonts/BahijMuna-Bold.eot');
+    src: local('Bahij Muna Bold'), local('BahijMuna-Bold'),
+        url('fonts/BahijMuna-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMuna-Bold.woff2') format('woff2'),
+        url('fonts/BahijMuna-Bold.woff') format('woff'),
+        url('fonts/BahijMuna-Bold.ttf') format('truetype'),
+        url('fonts/BahijMuna-Bold.svg#BahijMuna-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Muna';
+    src: url('fonts/BahijMuna-Black.eot');
+    src: local('Bahij Muna Black'), local('BahijMuna-Black'),
+        url('fonts/BahijMuna-Black.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMuna-Black.woff2') format('woff2'),
+        url('fonts/BahijMuna-Black.woff') format('woff'),
+        url('fonts/BahijMuna-Black.ttf') format('truetype'),
+        url('fonts/BahijMuna-Black.svg#BahijMuna-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
