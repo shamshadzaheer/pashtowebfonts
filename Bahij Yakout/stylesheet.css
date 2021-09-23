@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Yakout';
+    src: url('fonts/BahijYakout-Bold.eot');
+    src: local('Bahij Yakout Bold'), local('BahijYakout-Bold'),
+        url('fonts/BahijYakout-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijYakout-Bold.woff2') format('woff2'),
+        url('fonts/BahijYakout-Bold.woff') format('woff'),
+        url('fonts/BahijYakout-Bold.ttf') format('truetype'),
+        url('fonts/BahijYakout-Bold.svg#BahijYakout-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Yakout';
+    src: url('fonts/BahijYakout-Regular.eot');
+    src: local('Bahij Yakout'), local('BahijYakout-Regular'),
+        url('fonts/BahijYakout-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijYakout-Regular.woff2') format('woff2'),
+        url('fonts/BahijYakout-Regular.woff') format('woff'),
+        url('fonts/BahijYakout-Regular.ttf') format('truetype'),
+        url('fonts/BahijYakout-Regular.svg#BahijYakout-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
