@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Roya';
+    src: url('fonts/BahijRoya-Bold.eot');
+    src: local('Bahij Roya Bold'), local('BahijRoya-Bold'),
+        url('fonts/BahijRoya-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijRoya-Bold.woff2') format('woff2'),
+        url('fonts/BahijRoya-Bold.woff') format('woff'),
+        url('fonts/BahijRoya-Bold.ttf') format('truetype'),
+        url('fonts/BahijRoya-Bold.svg#BahijRoya-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Roya';
+    src: url('fonts/BahijRoya-Regular.eot');
+    src: local('Bahij Roya'), local('BahijRoya-Regular'),
+        url('fonts/BahijRoya-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijRoya-Regular.woff2') format('woff2'),
+        url('fonts/BahijRoya-Regular.woff') format('woff'),
+        url('fonts/BahijRoya-Regular.ttf') format('truetype'),
+        url('fonts/BahijRoya-Regular.svg#BahijRoya-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
