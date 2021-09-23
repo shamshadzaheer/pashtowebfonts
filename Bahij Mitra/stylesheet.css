@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Mitra';
+    src: url('fonts/BahijMitra-Bold.eot');
+    src: local('Bahij Mitra Bold'), local('BahijMitra-Bold'),
+        url('fonts/BahijMitra-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMitra-Bold.woff2') format('woff2'),
+        url('fonts/BahijMitra-Bold.woff') format('woff'),
+        url('fonts/BahijMitra-Bold.ttf') format('truetype'),
+        url('fonts/BahijMitra-Bold.svg#BahijMitra-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Mitra';
+    src: url('fonts/BahijMitra-Regular.eot');
+    src: local('Bahij Mitra'), local('BahijMitra-Regular'),
+        url('fonts/BahijMitra-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijMitra-Regular.woff2') format('woff2'),
+        url('fonts/BahijMitra-Regular.woff') format('woff'),
+        url('fonts/BahijMitra-Regular.ttf') format('truetype'),
+        url('fonts/BahijMitra-Regular.svg#BahijMitra-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
