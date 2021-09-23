@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bahij Zar';
+    src: url('fonts/BahijZar-Regular.eot');
+    src: local('Bahij Zar'), local('BahijZar-Regular'),
+        url('fonts/BahijZar-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijZar-Regular.woff2') format('woff2'),
+        url('fonts/BahijZar-Regular.woff') format('woff'),
+        url('fonts/BahijZar-Regular.ttf') format('truetype'),
+        url('fonts/BahijZar-Regular.svg#BahijZar-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bahij Zar';
+    src: url('fonts/BahijZar-Bold.eot');
+    src: local('Bahij Zar Bold'), local('BahijZar-Bold'),
+        url('fonts/BahijZar-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/BahijZar-Bold.woff2') format('woff2'),
+        url('fonts/BahijZar-Bold.woff') format('woff'),
+        url('fonts/BahijZar-Bold.ttf') format('truetype'),
+        url('fonts/BahijZar-Bold.svg#BahijZar-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
